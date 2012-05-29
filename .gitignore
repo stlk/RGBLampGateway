@@ -1,6 +1,13 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+build/
+*.suo
+*.user
 bin
+Bin
 obj
-
-# mstest test results
-TestResults
+_ReSharper*
+*.csproj.user
+*.resharper.user
+*.suo
+*.cache
+TestResult.xml
+OnBoardFlash.dat
